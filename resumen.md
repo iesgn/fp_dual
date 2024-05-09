@@ -74,7 +74,7 @@
 ## FP Dual
 
 * Todos los ciclos formativos se desarrollarán, **con carácter dual**, entre el centro de formación y la empresa.
-* La formación la puede realizar una empresa o un **organismo equipardo**: entidad u organización, cualquiera que sea su naturaleza jurídica, que, no teniendo  a condición de empresa, disponga al menos de un centro de trabajo en el que puedan desarrollarse, en las condiciones requeridas, actividades de formación tutorizada en el marco de las ofertas de formación profesional.
+* La formación la puede realizar una empresa o un **organismo equiparado**: entidad u organización, cualquiera que sea su naturaleza jurídica, que, no teniendo  a condición de empresa, disponga al menos de un centro de trabajo en el que puedan desarrollarse, en las condiciones requeridas, actividades de formación tutorizada en el marco de las ofertas de formación profesional.
 
 * Modalidades en Grado Medio y Superior:
     * **General**:
