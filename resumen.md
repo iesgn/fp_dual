@@ -90,5 +90,5 @@ recogen en los estándares de competencia profesional**.
     * La parte troncal referida a módulos profesionales vinculados a estándares de competencia profesional deberá ser impartido entre el centro de formación profesional y la empresa.
 * Existirá un **Plan Formativo** para cada alumno:
     
-[ ](img/plan.png)
+    ![ ](img/plan.png)
     
