@@ -63,7 +63,11 @@
     * Va a estar presente en el primer y segundo curso de los ciclos formativos de grado medio y superior.
     * Habilidades transversales, Habilidades emprendedoras, Competencias digitales, Autoorientación.
 
+### Módulos GM
+
 ![ ](img/gm.png)
+
+### Módulos GS
 
 ![ ](img/gs.png)
 
