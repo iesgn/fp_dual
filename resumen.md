@@ -71,3 +71,24 @@ recogen en los estándares de competencia profesional**.
 ## FP Dual
 
 * Todos los ciclos formativos se desarrollarán, **con carácter dual**, entre el centro de formación y la empresa.
+* La formación la puede realizar una empresa o un **organismo equipardo**: entidad u organización, cualquiera que sea su naturaleza jurídica, que, no teniendo  a condición de empresa, disponga al menos de un centro de trabajo en el que puedan desarrollarse, en las condiciones requeridas, actividades de formación tutorizada en el marco de las ofertas de formación profesional.
+
+* Modalidades en Grado Medio y Superior:
+    * **General**:
+        * Entre **25-35%** de la duración.
+        * Entre el **10-20%** de RA de módulos profesionales.
+    * **Intensivo**:
+        * Entre **35-55%** de la duración.
+        * El **30** de RA de módulos profesionales.
+        * Contrato laboral.
+* La estancia en la empresa:
+    * Contribuye al desarrollo de parte de los RA contemplados en los módulos profesionales del correspondiente currículo.
+    * No podrá ser la totalidad de un módulo profesional.
+    * La estancia en la empresa tiene naturaleza formativa y no laboral.
+    * Deben darse en los dos cursos escolares por periodos equiparados.
+    * Se pueden realizar en modalidad virtual.
+    * La parte troncal referida a módulos profesionales vinculados a estándares de competencia profesional deberá ser impartido entre el centro de formación profesional y la empresa.
+* Existirá un **Plan Formativo** para cada alumno:
+    
+    [ ](img/plan.png)
+    
