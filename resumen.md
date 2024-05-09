@@ -67,3 +67,7 @@ recogen en los estándares de competencia profesional**.
 ![ ](img/gm.png)
 
 ![ ](img/gs.png)
+
+## FP Dual
+
+* Todos los ciclos formativos se desarrollarán, **con carácter dual**, entre el centro de formación y la empresa.
