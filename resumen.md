@@ -29,8 +29,7 @@
 * **Cualificación**: La competencia para el **desempeño de una actividad profesional acreditada oficialmente por títulos, certificados o acreditaciones**. (Marco Español de las Cualificaciones (MECU)).
 * **Elemento de Competencia**: cada realización profesional que **describe el comportamiento esperado de la persona, en forma de consecuencias o resultados de las actividades que realizan el desempeño de una profesión**.
     * **Competencias básicas**: Aquellas que son consideradas necesarias **para la realización y desarrollo personal, para participar activamente en la sociedad o mejorar la empleabilidad**.
-    * **Competencia profesional**: Conjunto de conocimientos y destrezas que permiten el ejercicio de la actividad profesional conforme a las exigencias dela producción y el empleo. **Se
-recogen en los estándares de competencia profesional**.
+    * **Competencia profesional**: Conjunto de conocimientos y destrezas que permiten el ejercicio de la actividad profesional conforme a las exigencias dela producción y el empleo. **Se recogen en los estándares de competencia profesional**.
 * **Indicador de Calidad**: el criterio que establece el **nivel mínimo exigido en el ámbito profesional para el desempeño de una actividad o tarea**, en tanto que satisface los objetivos de las organizaciones productivas. 
 * **Resultado de aprendizaje**: elemento básico del currículo que describe **lo que se espera que un estudiante conozca, comprenda y sea capaz de hacer**, asociado a un elemento de competencia y que orienta el resto de elementos curriculares, incluidos los criterios de evaluación.
 * Existen:
@@ -86,7 +85,6 @@ recogen en los estándares de competencia profesional**.
     * No podrá ser la totalidad de un módulo profesional.
     * La estancia en la empresa tiene naturaleza formativa y no laboral.
     * Deben darse en los dos cursos escolares por periodos equiparados.
-    * Se pueden realizar en modalidad virtual.
     * La parte troncal referida a módulos profesionales vinculados a estándares de competencia profesional deberá ser impartido entre el centro de formación profesional y la empresa.
 * Existirá un **Plan Formativo** para cada alumno:
     
